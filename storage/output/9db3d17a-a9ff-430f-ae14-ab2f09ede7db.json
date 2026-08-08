@@ -1,0 +1,970 @@
+{
+    "schema_version": "1.0",
+    "generated_at": "2026-08-08T22:50:30+02:00",
+    "job": {
+        "id": "9db3d17a-a9ff-430f-ae14-ab2f09ede7db",
+        "file_name": "DO_BT_Proyecto_Parque de bolas.pdf",
+        "size_bytes": 190452,
+        "sha256": "15ff5d799639892de9f922e62443820ee5f8aa4080c610447bf6c9687038f738",
+        "language": "spa",
+        "engine": {
+            "ocr": "tesseract.js",
+            "pdf": "pdf.js",
+            "server": "PHP 8.3.30",
+            "pipeline": "browser-ocr + php-structuring"
+        },
+        "created_at": "2026-08-08 22:50:30"
+    },
+    "document": {
+        "page_count": 2,
+        "source": "text_layer",
+        "mean_confidence": null,
+        "title": "DIRECCIÓN TÉCNICA DE INSTALACION ELÉCTRICA DE BAJA TENSIÓN",
+        "text": "DIRECCIÓN TÉCNICA DE INSTALACION ELÉCTRICA DE BAJA TENSIÓN\n\nD./Dña. Rodrigo Martínez de la Fuente,\nCOLEGIADO/A N.º 1039 DEL COLEGIO OFICIAL DE PERITOS E INGENIEROS TÉCNICOS\nINDUSTRIALES DE CADIZ\n\nCERTIFICA:\nQue bajo su dirección técnica ha sido ejecutada la instalación correspondiente\nal proyecto titulado  PROYECTO DE ADECUACIÓN DE LOCAL Y SUS\nINSTALACIONES PARA USO DE PARQUE DE BOLAS/CELEBRACIONES EN\nBO LAS GAVIOTAS, 9004. TARIFA\nsuscrito por el Ingeniero Técnico Industrial D./Dña. Rodrigo Martínez de la Fuente ,\nvisado en el Colegio Oficial de Cádiz y con nº de visado 3150/2026 , de fecha\n30/06/2026 .\nDATOS DE LA INSTALACIÓN\nCalle: LAS GAVIOTAS 9004\nLocalidad: TARIFA\nTITULAR\nNombre y Apellidos: PELAUNIC, S.L.\nN.I.F.: B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N\nLocalidad: TARIFA\nPETICIONARIO\nIngenieria y Servicios Sur de Europa, S.L.\nC.I.F./N.I.F.: B11801586\n\nDicha instalación consiste en INSTALACIÓN INTERIOR DE BAJA TENSIÓN\nDE UN LOCAL DE PÚBLICA CONCURRENCIA\nse ajusta a lo especificado en el Proyecto redactado al efecto y a la Reglamentación\nvigente que le afecta, así como Normas Particulares de la Compañía Suministradora y\ncondiciones que figuran al dorso.\nY para que conste y surta efectos en la Secretaría\nGeneral Provincial de Hacienda, Industria y Energía de Cádiz\npara la autorización de conexión y funcionamiento, previas las\ncomprobaciones oportunas se extiende el presente certificado\nen\n\nTARIFA a 7 de JUNIO de 2.026\nEl /La INGENIERO T´ÉCNICO INDUSTRIAL\n\nVALORES DE LAS MEDIDAS DE RESISTENCIA DE LAS TOMAS DE TIERRA\n\n(Se consignarán los valores de las resistencias a tierra de\ntodas las tomas que reglamentariamente deban existir)\n\n18 \n\nOBSERVACIONES\n\nNINGUNA"
+    },
+    "summary": {
+        "word_count": 260,
+        "char_count": 1693,
+        "line_count": 49,
+        "block_count": 10,
+        "table_count": 0,
+        "key_value_count": 7
+    },
+    "key_values": [
+        {
+            "key": "al_proyecto_titulado",
+            "label": "al proyecto titulado",
+            "value": "PROYECTO DE ADECUACIÓN DE LOCAL Y SUS",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "PROYECTO DE ADECUACIÓN DE LOCAL Y SUS",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.02,
+                        "x1": 510.28,
+                        "y0": 279.56,
+                        "y1": 289.58
+                    }
+                }
+            ]
+        },
+        {
+            "key": "calle",
+            "label": "Calle",
+            "value": "LAS GAVIOTAS 9004",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "LAS GAVIOTAS 9004",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 241.02,
+                        "y0": 395.06,
+                        "y1": 405.08
+                    }
+                }
+            ]
+        },
+        {
+            "key": "localidad",
+            "label": "Localidad",
+            "value": "TARIFA",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "TARIFA",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 198.77,
+                        "y0": 412.28,
+                        "y1": 422.3
+                    }
+                },
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "TARIFA",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 198.77,
+                        "y0": 481.28,
+                        "y1": 491.3
+                    }
+                }
+            ]
+        },
+        {
+            "key": "nombre_y_apellidos",
+            "label": "Nombre y Apellidos",
+            "value": "PELAUNIC, S.L.",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "PELAUNIC, S.L.",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 277.67,
+                        "y0": 446.78,
+                        "y1": 456.8
+                    }
+                }
+            ]
+        },
+        {
+            "key": "n_i_f",
+            "label": "N.I.F.",
+            "value": "B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 378.92,
+                        "y0": 464.06,
+                        "y1": 474.08
+                    }
+                }
+            ]
+        },
+        {
+            "key": "c_i_f_n_i_f",
+            "label": "C.I.F./N.I.F.",
+            "value": "B11801586",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "B11801586",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 220.5,
+                        "y0": 533,
+                        "y1": 543.02
+                    }
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "entities": {
+        "cif": [
+            {
+                "page": 1,
+                "raw": "B11801586",
+                "value": "B11801586"
+            }
+        ],
+        "date": [
+            {
+                "page": 1,
+                "raw": "30/06/2026",
+                "value": "2026-06-30"
+            }
+        ]
+    },
+    "pages": [
+        {
+            "number": 1,
+            "width": 595.22,
+            "height": 842,
+            "unit": "pt",
+            "rotation": 0,
+            "source": "text_layer",
+            "confidence": null,
+            "word_count": 228,
+            "text": "DIRECCIÓN TÉCNICA DE INSTALACION ELÉCTRICA DE BAJA TENSIÓN\n\nD./Dña. Rodrigo Martínez de la Fuente,\nCOLEGIADO/A N.º 1039 DEL COLEGIO OFICIAL DE PERITOS E INGENIEROS TÉCNICOS\nINDUSTRIALES DE CADIZ\n\nCERTIFICA:\nQue bajo su dirección técnica ha sido ejecutada la instalación correspondiente\nal proyecto titulado  PROYECTO DE ADECUACIÓN DE LOCAL Y SUS\nINSTALACIONES PARA USO DE PARQUE DE BOLAS/CELEBRACIONES EN\nBO LAS GAVIOTAS, 9004. TARIFA\nsuscrito por el Ingeniero Técnico Industrial D./Dña. Rodrigo Martínez de la Fuente ,\nvisado en el Colegio Oficial de Cádiz y con nº de visado 3150/2026 , de fecha\n30/06/2026 .\nDATOS DE LA INSTALACIÓN\nCalle: LAS GAVIOTAS 9004\nLocalidad: TARIFA\nTITULAR\nNombre y Apellidos: PELAUNIC, S.L.\nN.I.F.: B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N\nLocalidad: TARIFA\nPETICIONARIO\nIngenieria y Servicios Sur de Europa, S.L.\nC.I.F./N.I.F.: B11801586\n\nDicha instalación consiste en INSTALACIÓN INTERIOR DE BAJA TENSIÓN\nDE UN LOCAL DE PÚBLICA CONCURRENCIA\nse ajusta a lo especificado en el Proyecto redactado al efecto y a la Reglamentación\nvigente que le afecta, así como Normas Particulares de la Compañía Suministradora y\ncondiciones que figuran al dorso.\nY para que conste y surta efectos en la Secretaría\nGeneral Provincial de Hacienda, Industria y Energía de Cádiz\npara la autorización de conexión y funcionamiento, previas las\ncomprobaciones oportunas se extiende el presente certificado\nen\n\nTARIFA a 7 de JUNIO de 2.026\nEl /La INGENIERO T´ÉCNICO INDUSTRIAL",
+            "blocks": [
+                {
+                    "id": "p1-b1",
+                    "bbox": {
+                        "x0": 110.82,
+                        "x1": 484.18,
+                        "y0": 148.6,
+                        "y1": 159.58
+                    },
+                    "page": 1,
+                    "text": "DIRECCIÓN TÉCNICA DE INSTALACION ELÉCTRICA DE BAJA TENSIÓN",
+                    "type": "heading",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 110.82,
+                                "x1": 484.18,
+                                "y0": 148.6,
+                                "y1": 159.58
+                            },
+                            "text": "DIRECCIÓN TÉCNICA DE INSTALACION ELÉCTRICA DE BAJA TENSIÓN",
+                            "font_size": 10.98,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.013,
+                        "w": 0.6273,
+                        "x": 0.1862,
+                        "y": 0.1765
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p1-b2",
+                    "bbox": {
+                        "x0": 85.08,
+                        "x1": 510.29,
+                        "y0": 186.92,
+                        "y1": 231.44
+                    },
+                    "page": 1,
+                    "text": "D./Dña. Rodrigo Martínez de la Fuente,\nCOLEGIADO/A N.º 1039 DEL COLEGIO OFICIAL DE PERITOS E INGENIEROS TÉCNICOS\nINDUSTRIALES DE CADIZ",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 85.08,
+                                "x1": 259.67,
+                                "y0": 186.92,
+                                "y1": 196.94
+                            },
+                            "text": "D./Dña. Rodrigo Martínez de la Fuente,",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 85.08,
+                                "x1": 510.29,
+                                "y0": 204.14,
+                                "y1": 214.16
+                            },
+                            "text": "COLEGIADO/A N.º 1039 DEL COLEGIO OFICIAL DE PERITOS E INGENIEROS TÉCNICOS",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 85.08,
+                                "x1": 207.34,
+                                "y0": 221.42,
+                                "y1": 231.44
+                            },
+                            "text": "INDUSTRIALES DE CADIZ",
+                            "font_size": 10.02,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0529,
+                        "w": 0.7144,
+                        "x": 0.1429,
+                        "y": 0.222
+                    },
+                    "confidence": null,
+                    "line_count": 3
+                },
+                {
+                    "id": "p1-b3",
+                    "bbox": {
+                        "x0": 112.02,
+                        "x1": 510.34,
+                        "y0": 247.28,
+                        "y1": 543.02
+                    },
+                    "page": 1,
+                    "text": "CERTIFICA:\nQue bajo su dirección técnica ha sido ejecutada la instalación correspondiente\nal proyecto titulado  PROYECTO DE ADECUACIÓN DE LOCAL Y SUS\nINSTALACIONES PARA USO DE PARQUE DE BOLAS/CELEBRACIONES EN\nBO LAS GAVIOTAS, 9004. TARIFA\nsuscrito por el Ingeniero Técnico Industrial D./Dña. Rodrigo Martínez de la Fuente ,\nvisado en el Colegio Oficial de Cádiz y con nº de visado 3150/2026 , de fecha\n30/06/2026 .\nDATOS DE LA INSTALACIÓN\nCalle: LAS GAVIOTAS 9004\nLocalidad: TARIFA\nTITULAR\nNombre y Apellidos: PELAUNIC, S.L.\nN.I.F.: B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N\nLocalidad: TARIFA\nPETICIONARIO\nIngenieria y Servicios Sur de Europa, S.L.\nC.I.F./N.I.F.: B11801586",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 167.65,
+                                "y0": 247.28,
+                                "y1": 257.3
+                            },
+                            "text": "CERTIFICA:",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 155.88,
+                                "x1": 510.28,
+                                "y0": 264.56,
+                                "y1": 274.58
+                            },
+                            "text": "Que bajo su dirección técnica ha sido ejecutada la instalación correspondiente",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 510.28,
+                                "y0": 279.56,
+                                "y1": 289.58
+                            },
+                            "text": "al proyecto titulado  PROYECTO DE ADECUACIÓN DE LOCAL Y SUS",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 465.48,
+                                "y0": 294.5,
+                                "y1": 304.52
+                            },
+                            "text": "INSTALACIONES PARA USO DE PARQUE DE BOLAS/CELEBRACIONES EN",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 270.96,
+                                "y0": 309.44,
+                                "y1": 319.46
+                            },
+                            "text": "BO LAS GAVIOTAS, 9004. TARIFA",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 510.27,
+                                "y0": 324.38,
+                                "y1": 334.4
+                            },
+                            "text": "suscrito por el Ingeniero Técnico Industrial D./Dña. Rodrigo Martínez de la Fuente ,",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 510.34,
+                                "y0": 339.32,
+                                "y1": 349.34
+                            },
+                            "text": "visado en el Colegio Oficial de Cádiz y con nº de visado 3150/2026 , de fecha",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 167.63,
+                                "y0": 354.26,
+                                "y1": 364.28
+                            },
+                            "text": "30/06/2026 .",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 250.97,
+                                "y0": 377.78,
+                                "y1": 387.8
+                            },
+                            "text": "DATOS DE LA INSTALACIÓN",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 241.02,
+                                "y0": 395.06,
+                                "y1": 405.08
+                            },
+                            "text": "Calle: LAS GAVIOTAS 9004",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 198.77,
+                                "y0": 412.28,
+                                "y1": 422.3
+                            },
+                            "text": "Localidad: TARIFA",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 154.9,
+                                "y0": 429.56,
+                                "y1": 439.58
+                            },
+                            "text": "TITULAR",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 277.67,
+                                "y0": 446.78,
+                                "y1": 456.8
+                            },
+                            "text": "Nombre y Apellidos: PELAUNIC, S.L.",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 378.92,
+                                "y0": 464.06,
+                                "y1": 474.08
+                            },
+                            "text": "N.I.F.: B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 198.77,
+                                "y0": 481.28,
+                                "y1": 491.3
+                            },
+                            "text": "Localidad: TARIFA",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 184.28,
+                                "y0": 498.56,
+                                "y1": 508.58
+                            },
+                            "text": "PETICIONARIO",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 297.69,
+                                "y0": 515.78,
+                                "y1": 525.8
+                            },
+                            "text": "Ingenieria y Servicios Sur de Europa, S.L.",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.08,
+                                "x1": 220.5,
+                                "y0": 533,
+                                "y1": 543.02
+                            },
+                            "text": "C.I.F./N.I.F.: B11801586",
+                            "font_size": 10.02,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.3512,
+                        "w": 0.6692,
+                        "x": 0.1882,
+                        "y": 0.2937
+                    },
+                    "confidence": null,
+                    "line_count": 18
+                },
+                {
+                    "id": "p1-b4",
+                    "bbox": {
+                        "x0": 112.02,
+                        "x1": 510.36,
+                        "y0": 558.98,
+                        "y1": 698.9
+                    },
+                    "page": 1,
+                    "text": "Dicha instalación consiste en INSTALACIÓN INTERIOR DE BAJA TENSIÓN\nDE UN LOCAL DE PÚBLICA CONCURRENCIA\nse ajusta a lo especificado en el Proyecto redactado al efecto y a la Reglamentación\nvigente que le afecta, así como Normas Particulares de la Compañía Suministradora y\ncondiciones que figuran al dorso.\nY para que conste y surta efectos en la Secretaría\nGeneral Provincial de Hacienda, Industria y Energía de Cádiz\npara la autorización de conexión y funcionamiento, previas las\ncomprobaciones oportunas se extiende el presente certificado\nen",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 155.88,
+                                "x1": 496.54,
+                                "y0": 558.98,
+                                "y1": 569
+                            },
+                            "text": "Dicha instalación consiste en INSTALACIÓN INTERIOR DE BAJA TENSIÓN",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 325.34,
+                                "y0": 573.92,
+                                "y1": 583.94
+                            },
+                            "text": "DE UN LOCAL DE PÚBLICA CONCURRENCIA",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 510.36,
+                                "y0": 588.86,
+                                "y1": 598.88
+                            },
+                            "text": "se ajusta a lo especificado en el Proyecto redactado al efecto y a la Reglamentación",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 510.27,
+                                "y0": 603.8,
+                                "y1": 613.82
+                            },
+                            "text": "vigente que le afecta, así como Normas Particulares de la Compañía Suministradora y",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 112.02,
+                                "x1": 258.84,
+                                "y0": 618.74,
+                                "y1": 628.76
+                            },
+                            "text": "condiciones que figuran al dorso.",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 255.18,
+                                "x1": 510.3,
+                                "y0": 633.68,
+                                "y1": 643.7
+                            },
+                            "text": "Y para que conste y surta efectos en la Secretaría",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 226.86,
+                                "x1": 510.29,
+                                "y0": 647.48,
+                                "y1": 657.5
+                            },
+                            "text": "General Provincial de Hacienda, Industria y Energía de Cádiz",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 226.86,
+                                "x1": 510.29,
+                                "y0": 661.28,
+                                "y1": 671.3
+                            },
+                            "text": "para la autorización de conexión y funcionamiento, previas las",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 226.86,
+                                "x1": 510.25,
+                                "y0": 675.08,
+                                "y1": 685.1
+                            },
+                            "text": "comprobaciones oportunas se extiende el presente certificado",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 226.86,
+                                "x1": 238.01,
+                                "y0": 688.88,
+                                "y1": 698.9
+                            },
+                            "text": "en",
+                            "font_size": 10.02,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.1662,
+                        "w": 0.6692,
+                        "x": 0.1882,
+                        "y": 0.6639
+                    },
+                    "confidence": null,
+                    "line_count": 10
+                },
+                {
+                    "id": "p1-b5",
+                    "bbox": {
+                        "x0": 260.7,
+                        "x1": 502.99,
+                        "y0": 702.62,
+                        "y1": 729.92
+                    },
+                    "page": 1,
+                    "text": "TARIFA a 7 de JUNIO de 2.026\nEl /La INGENIERO T´ÉCNICO INDUSTRIAL",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 260.7,
+                                "x1": 406.86,
+                                "y0": 702.62,
+                                "y1": 712.64
+                            },
+                            "text": "TARIFA a 7 de JUNIO de 2.026",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 302.46,
+                                "x1": 502.99,
+                                "y0": 719.9,
+                                "y1": 729.92
+                            },
+                            "text": "El /La INGENIERO T´ÉCNICO INDUSTRIAL",
+                            "font_size": 10.02,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0324,
+                        "w": 0.4071,
+                        "x": 0.438,
+                        "y": 0.8345
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                }
+            ],
+            "tables": [],
+            "key_values": [
+                {
+                    "key": "al_proyecto_titulado",
+                    "bbox": {
+                        "x0": 112.02,
+                        "x1": 510.28,
+                        "y0": 279.56,
+                        "y1": 289.58
+                    },
+                    "page": 1,
+                    "label": "al proyecto titulado",
+                    "value": "PROYECTO DE ADECUACIÓN DE LOCAL Y SUS",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "calle",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 241.02,
+                        "y0": 395.06,
+                        "y1": 405.08
+                    },
+                    "page": 1,
+                    "label": "Calle",
+                    "value": "LAS GAVIOTAS 9004",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "localidad",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 198.77,
+                        "y0": 412.28,
+                        "y1": 422.3
+                    },
+                    "page": 1,
+                    "label": "Localidad",
+                    "value": "TARIFA",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "nombre_y_apellidos",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 277.67,
+                        "y0": 446.78,
+                        "y1": 456.8
+                    },
+                    "page": 1,
+                    "label": "Nombre y Apellidos",
+                    "value": "PELAUNIC, S.L.",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "n_i_f",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 378.92,
+                        "y0": 464.06,
+                        "y1": 474.08
+                    },
+                    "page": 1,
+                    "label": "N.I.F.",
+                    "value": "B2660523 Domicilio: CN 340 km 78, LA PEÑA S/N",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "localidad",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 198.77,
+                        "y0": 481.28,
+                        "y1": 491.3
+                    },
+                    "page": 1,
+                    "label": "Localidad",
+                    "value": "TARIFA",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "c_i_f_n_i_f",
+                    "bbox": {
+                        "x0": 112.08,
+                        "x1": 220.5,
+                        "y0": 533,
+                        "y1": 543.02
+                    },
+                    "page": 1,
+                    "label": "C.I.F./N.I.F.",
+                    "value": "B11801586",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "width": 595.22,
+            "height": 842,
+            "unit": "pt",
+            "rotation": 0,
+            "source": "text_layer",
+            "confidence": null,
+            "word_count": 32,
+            "text": "VALORES DE LAS MEDIDAS DE RESISTENCIA DE LAS TOMAS DE TIERRA\n\n(Se consignarán los valores de las resistencias a tierra de\ntodas las tomas que reglamentariamente deban existir)\n\n18 \n\nOBSERVACIONES\n\nNINGUNA",
+            "blocks": [
+                {
+                    "id": "p2-b1",
+                    "bbox": {
+                        "x0": 85.98,
+                        "x1": 509.46,
+                        "y0": 164.82,
+                        "y1": 176.82
+                    },
+                    "page": 2,
+                    "text": "VALORES DE LAS MEDIDAS DE RESISTENCIA DE LAS TOMAS DE TIERRA",
+                    "type": "heading",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 85.98,
+                                "x1": 509.46,
+                                "y0": 164.82,
+                                "y1": 176.82
+                            },
+                            "text": "VALORES DE LAS MEDIDAS DE RESISTENCIA DE LAS TOMAS DE TIERRA",
+                            "font_size": 12,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0143,
+                        "w": 0.7115,
+                        "x": 0.1445,
+                        "y": 0.1957
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p2-b2",
+                    "bbox": {
+                        "x0": 145.92,
+                        "x1": 402.17,
+                        "y0": 185.18,
+                        "y1": 212.48
+                    },
+                    "page": 2,
+                    "text": "(Se consignarán los valores de las resistencias a tierra de\ntodas las tomas que reglamentariamente deban existir)",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 145.92,
+                                "x1": 402.17,
+                                "y0": 185.18,
+                                "y1": 195.2
+                            },
+                            "text": "(Se consignarán los valores de las resistencias a tierra de",
+                            "font_size": 10.02,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 152.1,
+                                "x1": 396.04,
+                                "y0": 202.46,
+                                "y1": 212.48
+                            },
+                            "text": "todas las tomas que reglamentariamente deban existir)",
+                            "font_size": 10.02,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0324,
+                        "w": 0.4305,
+                        "x": 0.2452,
+                        "y": 0.2199
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                },
+                {
+                    "id": "p2-b3",
+                    "bbox": {
+                        "x0": 256.07,
+                        "x1": 281.92,
+                        "y0": 220.8,
+                        "y1": 232.8
+                    },
+                    "page": 2,
+                    "text": "18 ",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 256.07,
+                                "x1": 281.92,
+                                "y0": 220.8,
+                                "y1": 232.8
+                            },
+                            "text": "18 ",
+                            "font_size": 12,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0143,
+                        "w": 0.0434,
+                        "x": 0.4302,
+                        "y": 0.2622
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p2-b4",
+                    "bbox": {
+                        "x0": 245.64,
+                        "x1": 349.68,
+                        "y0": 335.22,
+                        "y1": 347.22
+                    },
+                    "page": 2,
+                    "text": "OBSERVACIONES",
+                    "type": "heading",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 245.64,
+                                "x1": 349.68,
+                                "y0": 335.22,
+                                "y1": 347.22
+                            },
+                            "text": "OBSERVACIONES",
+                            "font_size": 12,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0143,
+                        "w": 0.1748,
+                        "x": 0.4127,
+                        "y": 0.3981
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p2-b5",
+                    "bbox": {
+                        "x0": 88.08,
+                        "x1": 144.04,
+                        "y0": 373.08,
+                        "y1": 385.08
+                    },
+                    "page": 2,
+                    "text": "NINGUNA",
+                    "type": "heading",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 88.08,
+                                "x1": 144.04,
+                                "y0": 373.08,
+                                "y1": 385.08
+                            },
+                            "text": "NINGUNA",
+                            "font_size": 12,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0143,
+                        "w": 0.094,
+                        "x": 0.148,
+                        "y": 0.4431
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                }
+            ],
+            "tables": [],
+            "key_values": []
+        }
+    ],
+    "warnings": []
+}

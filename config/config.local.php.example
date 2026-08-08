@@ -1,0 +1,19 @@
+<?php
+/**
+ * Copy this file to config.local.php and adjust. Values are merged over
+ * config.php section by section, so you only list what changes.
+ */
+
+declare(strict_types=1);
+
+return [
+    'app' => [
+        'debug' => false,
+    ],
+    'db' => [
+        'host'     => '127.0.0.1',
+        'database' => 'pdfocr',
+        'username' => 'root',
+        'password' => '',
+    ],
+];

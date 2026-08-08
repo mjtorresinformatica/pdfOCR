@@ -1,0 +1,2151 @@
+{
+    "schema_version": "1.0",
+    "generated_at": "2026-08-08T22:52:35+02:00",
+    "job": {
+        "id": "a0b613f4-d60e-4203-8781-3202f147138a",
+        "file_name": "IONOS factura 2026-04-05 - FA_202786052013 (1).pdf",
+        "size_bytes": 93113,
+        "sha256": "805da66a5687eec4a69b435c4e41f33504cbbe1c3f81c31b7a7fd30a6bd013bf",
+        "language": "spa",
+        "engine": {
+            "ocr": "tesseract.js",
+            "pdf": "pdf.js",
+            "server": "PHP 8.3.30",
+            "pipeline": "browser-ocr + php-structuring"
+        },
+        "created_at": "2026-08-08 22:52:35"
+    },
+    "document": {
+        "page_count": 2,
+        "source": "text_layer",
+        "mean_confidence": null,
+        "title": "Factura",
+        "text": "IONOS Cloud S.L.U.\nAvenida de La Vega, 1\nEdificio Veganova (Edificio 3, 5º-C)\n28108 Alcobendas (Madrid)\n\nN.° de factura:  202786052013\n\nIONOS Cloud S.L.U. · Avenida de La Vega, 1  Fecha de facturación:  05/04/26\nEdificio Veganova · 28108 Alcobendas (Madrid)  ID de cliente:  964806265\n\nEcontrata Andaluza 1978 SL  N.° de contrato:  101762400\nJose Ramón Torres  NIF/CIF:  B72358336\nCalle Alonso Cano 8, 6B\n11010 Cádiz  Consultas:  www.ionos.es/ayuda\nESPAÑA  My IONOS:  my.ionos.es/invoices\nTu Asesor Personal de IONOS:\nMiguel Angel Parra Gonzalez\n+34 910 759 247\n\nFactura\n\nInicio de facturación: 04/04/26\n\nCon. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\nContrato: 101762400 - IONOS Hosting Plus\n\nCuota (11,00 EUR)\n1  Cuota mensual  11.00 EUR al mes  1 m.  11,00  21,0 %\n04.04.2026-03.05.2026\nServicios adicionales (22,62 EUR)\n2  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.03.2026-04.04.2026\n3  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.04.2026-04.05.2026\n4  IONOS Correo Basic 5  2.50 EUR al mes  1 m.  2,50  21,0 %\n22.03.2026-21.04.2026\n5  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n23.03.2026-22.04.2026\n6  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n24.03.2026-23.04.2026\n7  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n03.04.2026-02.05.2026\n8  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n19.03.2026-18.04.2026\n9  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 8\nVálido de 19/03/2026 a 18/04/2026\n\nIONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 1 de 2\n\nEcontrata Andaluza 1978 SL  N.° de factura:  202786052013\nJose Ramón Torres  Fecha de facturación:  05/04/26\nCalle Alonso Cano 8, 6B  ID de cliente:  964806265\n\nCon. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\n10  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n11  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 10\nVálido de 26/03/2026 a 25/04/2026\n12  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n13  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 12\nVálido de 26/03/2026 a 25/04/2026\nTotal (base imponible)  33,62 EUR\n+ IVA (21,0 %)  7,06 EUR\n\nTotal a pagar  40,68 EUR\n\nEl importe de la factura por 40,68 EUR se cargará en tu cuenta bancaria de acuerdo con tu mandato SEPA durante\nlos próximos días.\n\nLos datos de su mandato SEPA son:\nIBAN : ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del\nacreedor : ES74ZZZB85049435\n\n¿Tiene dudas o preguntas sobre esta factura?\nEncontrará información adicional en my.ionos.es o en nuestro Centro de Ayuda .\n\nIONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 2 de 2"
+    },
+    "summary": {
+        "word_count": 491,
+        "char_count": 3143,
+        "line_count": 85,
+        "block_count": 16,
+        "table_count": 2,
+        "key_value_count": 18
+    },
+    "key_values": [
+        {
+            "key": "n_0_de_factura",
+            "label": "N.° de factura",
+            "value": "202786052013",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b2",
+                    "value": "202786052013",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 354.34,
+                        "x1": 552.73,
+                        "y0": 130.58,
+                        "y1": 139.61
+                    }
+                }
+            ]
+        },
+        {
+            "key": "edificio_veganova_28108_alcobendas_madrid_id_de_cliente",
+            "label": "Edificio Veganova · 28108 Alcobendas (Madrid) ID de cliente",
+            "value": "964806265",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b3",
+                    "value": "964806265",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 153.61,
+                        "y1": 166.54
+                    }
+                }
+            ]
+        },
+        {
+            "key": "econtrata_andaluza_1978_sl_n_0_de_contrato",
+            "label": "Econtrata Andaluza 1978 SL N.° de contrato",
+            "value": "101762400",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b4",
+                    "value": "101762400",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 167.47,
+                        "y1": 180
+                    }
+                }
+            ]
+        },
+        {
+            "key": "jose_ram_on_torres_nif_cif",
+            "label": "Jose Ramón Torres NIF/CIF",
+            "value": "B72358336",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b4",
+                    "value": "B72358336",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 180.97,
+                        "y1": 193.46
+                    }
+                }
+            ]
+        },
+        {
+            "key": "11010_c_adiz_consultas",
+            "label": "11010 Cádiz Consultas",
+            "value": "www.ionos.es/ayuda",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b4",
+                    "value": "www.ionos.es/ayuda",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.67,
+                        "y0": 206.4,
+                        "y1": 216.97
+                    }
+                }
+            ]
+        },
+        {
+            "key": "espa_na_my_ionos",
+            "label": "ESPAÑA My IONOS",
+            "value": "my.ionos.es/invoices",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b4",
+                    "value": "my.ionos.es/invoices",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.67,
+                        "y0": 219.86,
+                        "y1": 230.47
+                    }
+                }
+            ]
+        },
+        {
+            "key": "inicio_de_facturaci_on",
+            "label": "Inicio de facturación",
+            "value": "04/04/26",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b6",
+                    "value": "04/04/26",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 197.9,
+                        "y0": 339.6,
+                        "y1": 348.6
+                    }
+                }
+            ]
+        },
+        {
+            "key": "contrato",
+            "label": "Contrato",
+            "value": "101762400 - IONOS Hosting Plus",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b7",
+                    "value": "101762400 - IONOS Hosting Plus",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 257.36,
+                        "y0": 387.41,
+                        "y1": 396.41
+                    }
+                }
+            ]
+        },
+        {
+            "key": "commerzbank_frankfurt_iban",
+            "label": "Commerzbank Frankfurt, IBAN",
+            "value": "DE93500400000589486002 Página 1 de 2",
+            "occurrences": [
+                {
+                    "page": 1,
+                    "block_id": "p1-b9",
+                    "value": "DE93500400000589486002 Página 1 de 2",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 805.74,
+                        "y1": 812.75
+                    }
+                },
+                {
+                    "page": 2,
+                    "block_id": "p2-b7",
+                    "value": "DE93500400000589486002 Página 2 de 2",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 805.74,
+                        "y1": 812.75
+                    }
+                }
+            ]
+        },
+        {
+            "key": "econtrata_andaluza_1978_sl_n_0_de_factura",
+            "label": "Econtrata Andaluza 1978 SL N.° de factura",
+            "value": "202786052013",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b1",
+                    "value": "202786052013",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 90.15,
+                        "y1": 101.33
+                    }
+                }
+            ]
+        },
+        {
+            "key": "jose_ram_on_torres_fecha_de_facturaci_on",
+            "label": "Jose Ramón Torres Fecha de facturación",
+            "value": "05/04/26",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b1",
+                    "value": "05/04/26",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.71,
+                        "y0": 103.61,
+                        "y1": 113.93
+                    }
+                }
+            ]
+        },
+        {
+            "key": "calle_alonso_cano_8_6b_id_de_cliente",
+            "label": "Calle Alonso Cano 8, 6B ID de cliente",
+            "value": "964806265",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b1",
+                    "value": "964806265",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 117.08,
+                        "y1": 126.52
+                    }
+                }
+            ]
+        },
+        {
+            "key": "total_base_imponible",
+            "label": "Total (base imponible)",
+            "value": "33,62 EUR",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b2",
+                    "value": "33,62 EUR",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 328.5,
+                        "y1": 337.5
+                    }
+                }
+            ]
+        },
+        {
+            "key": "iva_21_0",
+            "label": "+ IVA (21,0 %)",
+            "value": "7,06 EUR",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b2",
+                    "value": "7,06 EUR",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 342.53,
+                        "y1": 351.53
+                    }
+                }
+            ]
+        },
+        {
+            "key": "total_a_pagar",
+            "label": "Total a pagar",
+            "value": "40,68 EUR",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b3",
+                    "value": "40,68 EUR",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.72,
+                        "y0": 361.01,
+                        "y1": 373.01
+                    }
+                }
+            ]
+        },
+        {
+            "key": "iban",
+            "label": "IBAN",
+            "value": "ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b5",
+                    "value": "ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.76,
+                        "y0": 450.3,
+                        "y1": 459.3
+                    }
+                }
+            ]
+        },
+        {
+            "key": "acreedor",
+            "label": "acreedor",
+            "value": "ES74ZZZB85049435",
+            "occurrences": [
+                {
+                    "page": 2,
+                    "block_id": "p2-b5",
+                    "value": "ES74ZZZB85049435",
+                    "confidence": null,
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 198.45,
+                        "y0": 462.94,
+                        "y1": 471.94
+                    }
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "page": 1,
+            "bbox": {
+                "x0": 70.88,
+                "x1": 552.73,
+                "y0": 143.79,
+                "y1": 166.54
+            },
+            "rows": [
+                [
+                    "IONOS Cloud S.L.U. · Avenida de La Vega, 1",
+                    "Fecha de facturación:",
+                    "05/04/26"
+                ],
+                [
+                    "Edificio Veganova · 28108 Alcobendas (Madrid)",
+                    "ID de cliente:",
+                    "964806265"
+                ]
+            ],
+            "header": null,
+            "columns": 3,
+            "block_id": "p1-b3",
+            "column_anchors": [
+                70.88,
+                354.34,
+                510.81
+            ]
+        },
+        {
+            "page": 2,
+            "bbox": {
+                "x0": 70.88,
+                "x1": 552.73,
+                "y0": 90.15,
+                "y1": 126.52
+            },
+            "rows": [
+                [
+                    "Econtrata Andaluza 1978 SL",
+                    "N.° de factura:",
+                    "202786052013"
+                ],
+                [
+                    "Jose Ramón Torres",
+                    "Fecha de facturación:",
+                    "05/04/26"
+                ],
+                [
+                    "Calle Alonso Cano 8, 6B",
+                    "ID de cliente:",
+                    "964806265"
+                ]
+            ],
+            "header": null,
+            "columns": 3,
+            "block_id": "p2-b1",
+            "column_anchors": [
+                70.88,
+                382.69,
+                506.4
+            ]
+        }
+    ],
+    "entities": {
+        "amount": [
+            {
+                "page": 1,
+                "raw": "2.50 EUR",
+                "value": "2.5"
+            },
+            {
+                "page": 1,
+                "raw": "22,62 EUR",
+                "value": "22.62"
+            },
+            {
+                "page": 1,
+                "raw": "11.00 EUR",
+                "value": "11"
+            },
+            {
+                "page": 1,
+                "raw": "7.81 EUR",
+                "value": "7.81"
+            },
+            {
+                "page": 1,
+                "raw": "11,00 EUR",
+                "value": "11"
+            },
+            {
+                "page": 1,
+                "raw": "1.50 EUR",
+                "value": "1.5"
+            },
+            {
+                "page": 1,
+                "raw": "6.00 EUR",
+                "value": "6"
+            },
+            {
+                "page": 2,
+                "raw": "6.00 EUR",
+                "value": "6"
+            },
+            {
+                "page": 2,
+                "raw": "33,62 EUR",
+                "value": "33.62"
+            },
+            {
+                "page": 2,
+                "raw": "7,06 EUR",
+                "value": "7.06"
+            },
+            {
+                "page": 2,
+                "raw": "40,68 EUR",
+                "value": "40.68"
+            }
+        ],
+        "cif": [
+            {
+                "page": 1,
+                "raw": "B-85049435",
+                "value": "B85049435"
+            },
+            {
+                "page": 1,
+                "raw": "B72358336",
+                "value": "B72358336"
+            },
+            {
+                "page": 2,
+                "raw": "B-85049435",
+                "value": "B85049435"
+            }
+        ],
+        "date": [
+            {
+                "page": 1,
+                "raw": "04/04/26",
+                "value": "2026-04-04"
+            },
+            {
+                "page": 1,
+                "raw": "04.04.2026",
+                "value": "2026-04-04"
+            },
+            {
+                "page": 1,
+                "raw": "03.05.2026",
+                "value": "2026-05-03"
+            },
+            {
+                "page": 1,
+                "raw": "05.04.2026",
+                "value": "2026-04-05"
+            },
+            {
+                "page": 1,
+                "raw": "04.05.2026",
+                "value": "2026-05-04"
+            },
+            {
+                "page": 1,
+                "raw": "22.03.2026",
+                "value": "2026-03-22"
+            },
+            {
+                "page": 1,
+                "raw": "21.04.2026",
+                "value": "2026-04-21"
+            },
+            {
+                "page": 1,
+                "raw": "23.03.2026",
+                "value": "2026-03-23"
+            },
+            {
+                "page": 1,
+                "raw": "22.04.2026",
+                "value": "2026-04-22"
+            },
+            {
+                "page": 1,
+                "raw": "24.03.2026",
+                "value": "2026-03-24"
+            },
+            {
+                "page": 1,
+                "raw": "03.04.2026",
+                "value": "2026-04-03"
+            },
+            {
+                "page": 1,
+                "raw": "02.05.2026",
+                "value": "2026-05-02"
+            },
+            {
+                "page": 1,
+                "raw": "19.03.2026",
+                "value": "2026-03-19"
+            },
+            {
+                "page": 1,
+                "raw": "18.04.2026",
+                "value": "2026-04-18"
+            },
+            {
+                "page": 1,
+                "raw": "23.04.2026",
+                "value": "2026-04-23"
+            },
+            {
+                "page": 1,
+                "raw": "18/04/2026",
+                "value": "2026-04-18"
+            },
+            {
+                "page": 1,
+                "raw": "19/03/2026",
+                "value": "2026-03-19"
+            },
+            {
+                "page": 1,
+                "raw": "05.03.2026",
+                "value": "2026-03-05"
+            },
+            {
+                "page": 1,
+                "raw": "05/04/26",
+                "value": "2026-04-05"
+            },
+            {
+                "page": 2,
+                "raw": "05/04/26",
+                "value": "2026-04-05"
+            },
+            {
+                "page": 2,
+                "raw": "26.03.2026",
+                "value": "2026-03-26"
+            },
+            {
+                "page": 2,
+                "raw": "25.04.2026",
+                "value": "2026-04-25"
+            },
+            {
+                "page": 2,
+                "raw": "26/03/2026",
+                "value": "2026-03-26"
+            },
+            {
+                "page": 2,
+                "raw": "25/04/2026",
+                "value": "2026-04-25"
+            }
+        ],
+        "iban": [
+            {
+                "page": 1,
+                "raw": "DE93500400000589486002",
+                "value": "DE93500400000589486002"
+            },
+            {
+                "page": 2,
+                "raw": "DE93500400000589486002",
+                "value": "DE93500400000589486002"
+            }
+        ],
+        "percentage": [
+            {
+                "page": 1,
+                "raw": "21,0 %",
+                "value": "21"
+            },
+            {
+                "page": 2,
+                "raw": "21,0 %",
+                "value": "21"
+            }
+        ],
+        "phone": [
+            {
+                "page": 1,
+                "raw": "964806265",
+                "value": "964806265"
+            },
+            {
+                "page": 1,
+                "raw": "101762400",
+                "value": "101762400"
+            },
+            {
+                "page": 1,
+                "raw": "+34 910 759 247",
+                "value": "34910759247"
+            },
+            {
+                "page": 2,
+                "raw": "964806265",
+                "value": "964806265"
+            }
+        ]
+    },
+    "pages": [
+        {
+            "number": 1,
+            "width": 595.28,
+            "height": 841.88,
+            "unit": "pt",
+            "rotation": 0,
+            "source": "text_layer",
+            "confidence": null,
+            "word_count": 278,
+            "text": "IONOS Cloud S.L.U.\nAvenida de La Vega, 1\nEdificio Veganova (Edificio 3, 5º-C)\n28108 Alcobendas (Madrid)\n\nN.° de factura:  202786052013\n\nIONOS Cloud S.L.U. · Avenida de La Vega, 1  Fecha de facturación:  05/04/26\nEdificio Veganova · 28108 Alcobendas (Madrid)  ID de cliente:  964806265\n\nEcontrata Andaluza 1978 SL  N.° de contrato:  101762400\nJose Ramón Torres  NIF/CIF:  B72358336\nCalle Alonso Cano 8, 6B\n11010 Cádiz  Consultas:  www.ionos.es/ayuda\nESPAÑA  My IONOS:  my.ionos.es/invoices\nTu Asesor Personal de IONOS:\nMiguel Angel Parra Gonzalez\n+34 910 759 247\n\nFactura\n\nInicio de facturación: 04/04/26\n\nCon. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\nContrato: 101762400 - IONOS Hosting Plus\n\nCuota (11,00 EUR)\n1  Cuota mensual  11.00 EUR al mes  1 m.  11,00  21,0 %\n04.04.2026-03.05.2026\nServicios adicionales (22,62 EUR)\n2  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.03.2026-04.04.2026\n3  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.04.2026-04.05.2026\n4  IONOS Correo Basic 5  2.50 EUR al mes  1 m.  2,50  21,0 %\n22.03.2026-21.04.2026\n5  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n23.03.2026-22.04.2026\n6  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n24.03.2026-23.04.2026\n7  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n03.04.2026-02.05.2026\n8  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n19.03.2026-18.04.2026\n9  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 8\nVálido de 19/03/2026 a 18/04/2026\n\nIONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 1 de 2",
+            "blocks": [
+                {
+                    "id": "p1-b1",
+                    "bbox": {
+                        "x0": 354.34,
+                        "x1": 494.54,
+                        "y0": 62.55,
+                        "y1": 109.31
+                    },
+                    "page": 1,
+                    "text": "IONOS Cloud S.L.U.\nAvenida de La Vega, 1\nEdificio Veganova (Edificio 3, 5º-C)\n28108 Alcobendas (Madrid)",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 438.8,
+                                "y0": 62.55,
+                                "y1": 71.55
+                            },
+                            "text": "IONOS Cloud S.L.U.",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 445.21,
+                                "y0": 75.11,
+                                "y1": 84.11
+                            },
+                            "text": "Avenida de La Vega, 1",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 494.54,
+                                "y0": 87.71,
+                                "y1": 96.71
+                            },
+                            "text": "Edificio Veganova (Edificio 3, 5º-C)",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 468.8,
+                                "y0": 100.31,
+                                "y1": 109.31
+                            },
+                            "text": "28108 Alcobendas (Madrid)",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0555,
+                        "w": 0.2355,
+                        "x": 0.5952,
+                        "y": 0.0743
+                    },
+                    "confidence": null,
+                    "line_count": 4
+                },
+                {
+                    "id": "p1-b2",
+                    "bbox": {
+                        "x0": 354.34,
+                        "x1": 552.73,
+                        "y0": 130.58,
+                        "y1": 139.61
+                    },
+                    "page": 1,
+                    "text": "N.° de factura:  202786052013",
+                    "type": "key_value",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 552.73,
+                                "y0": 130.58,
+                                "y1": 139.61
+                            },
+                            "text": "N.° de factura:  202786052013",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0107,
+                        "w": 0.3333,
+                        "x": 0.5952,
+                        "y": 0.1551
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p1-b3",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 143.79,
+                        "y1": 166.54
+                    },
+                    "page": 1,
+                    "text": "IONOS Cloud S.L.U. · Avenida de La Vega, 1  Fecha de facturación:  05/04/26\nEdificio Veganova · 28108 Alcobendas (Madrid)  ID de cliente:  964806265",
+                    "type": "table",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.71,
+                                "y0": 143.79,
+                                "y1": 153.08
+                            },
+                            "text": "IONOS Cloud S.L.U. · Avenida de La Vega, 1  Fecha de facturación:  05/04/26",
+                            "font_size": 7.01,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.73,
+                                "y0": 153.61,
+                                "y1": 166.54
+                            },
+                            "text": "Edificio Veganova · 28108 Alcobendas (Madrid)  ID de cliente:  964806265",
+                            "font_size": 7.01,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.027,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.1708
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                },
+                {
+                    "id": "p1-b4",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 167.47,
+                        "y1": 278.14
+                    },
+                    "page": 1,
+                    "text": "Econtrata Andaluza 1978 SL  N.° de contrato:  101762400\nJose Ramón Torres  NIF/CIF:  B72358336\nCalle Alonso Cano 8, 6B\n11010 Cádiz  Consultas:  www.ionos.es/ayuda\nESPAÑA  My IONOS:  my.ionos.es/invoices\nTu Asesor Personal de IONOS:\nMiguel Angel Parra Gonzalez\n+34 910 759 247",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.73,
+                                "y0": 167.47,
+                                "y1": 180
+                            },
+                            "text": "Econtrata Andaluza 1978 SL  N.° de contrato:  101762400",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.74,
+                                "y0": 180.97,
+                                "y1": 193.46
+                            },
+                            "text": "Jose Ramón Torres  NIF/CIF:  B72358336",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 169.16,
+                                "y0": 194.47,
+                                "y1": 203.47
+                            },
+                            "text": "Calle Alonso Cano 8, 6B",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.67,
+                                "y0": 206.4,
+                                "y1": 216.97
+                            },
+                            "text": "11010 Cádiz  Consultas:  www.ionos.es/ayuda",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.67,
+                                "y0": 219.86,
+                                "y1": 230.47
+                            },
+                            "text": "ESPAÑA  My IONOS:  my.ionos.es/invoices",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 487.31,
+                                "y0": 241.46,
+                                "y1": 250.46
+                            },
+                            "text": "Tu Asesor Personal de IONOS:",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 354.34,
+                                "x1": 474.06,
+                                "y0": 254.06,
+                                "y1": 263.06
+                            },
+                            "text": "Miguel Angel Parra Gonzalez",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 373.69,
+                                "x1": 442.48,
+                                "y0": 269.14,
+                                "y1": 278.14
+                            },
+                            "text": "+34 910 759 247",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.1315,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.1989
+                    },
+                    "confidence": null,
+                    "line_count": 8
+                },
+                {
+                    "id": "p1-b5",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 136.27,
+                        "y0": 302.81,
+                        "y1": 320.81
+                    },
+                    "page": 1,
+                    "text": "Factura",
+                    "type": "heading",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 136.27,
+                                "y0": 302.81,
+                                "y1": 320.81
+                            },
+                            "text": "Factura",
+                            "font_size": 18,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0214,
+                        "w": 0.1098,
+                        "x": 0.1191,
+                        "y": 0.3597
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p1-b6",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 197.9,
+                        "y0": 339.6,
+                        "y1": 348.6
+                    },
+                    "page": 1,
+                    "text": "Inicio de facturación: 04/04/26",
+                    "type": "key_value",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 197.9,
+                                "y0": 339.6,
+                                "y1": 348.6
+                            },
+                            "text": "Inicio de facturación: 04/04/26",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0107,
+                        "w": 0.2134,
+                        "x": 0.1191,
+                        "y": 0.4034
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p1-b7",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.38,
+                        "y0": 369.79,
+                        "y1": 396.41
+                    },
+                    "page": 1,
+                    "text": "Con. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\nContrato: 101762400 - IONOS Hosting Plus",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.38,
+                                "y0": 369.79,
+                                "y1": 378.79
+                            },
+                            "text": "Con. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 257.36,
+                                "y0": 387.41,
+                                "y1": 396.41
+                            },
+                            "text": "Contrato: 101762400 - IONOS Hosting Plus",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0316,
+                        "w": 0.8089,
+                        "x": 0.1191,
+                        "y": 0.4392
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                },
+                {
+                    "id": "p1-b8",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.36,
+                        "y0": 409.95,
+                        "y1": 733.58
+                    },
+                    "page": 1,
+                    "text": "Cuota (11,00 EUR)\n1  Cuota mensual  11.00 EUR al mes  1 m.  11,00  21,0 %\n04.04.2026-03.05.2026\nServicios adicionales (22,62 EUR)\n2  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.03.2026-04.04.2026\n3  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %\n05.04.2026-04.05.2026\n4  IONOS Correo Basic 5  2.50 EUR al mes  1 m.  2,50  21,0 %\n22.03.2026-21.04.2026\n5  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n23.03.2026-22.04.2026\n6  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n24.03.2026-23.04.2026\n7  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %\n03.04.2026-02.05.2026\n8  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n19.03.2026-18.04.2026\n9  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 8\nVálido de 19/03/2026 a 18/04/2026",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 145.62,
+                                "y0": 409.95,
+                                "y1": 418.95
+                            },
+                            "text": "Cuota (11,00 EUR)",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 429.64,
+                                "y1": 438.64
+                            },
+                            "text": "1  Cuota mensual  11.00 EUR al mes  1 m.  11,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 443.66,
+                                "y1": 452.66
+                            },
+                            "text": "04.04.2026-03.05.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 206.82,
+                                "y0": 461.96,
+                                "y1": 470.96
+                            },
+                            "text": "Servicios adicionales (22,62 EUR)",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 481.65,
+                                "y1": 490.65
+                            },
+                            "text": "2  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 495.68,
+                                "y1": 504.68
+                            },
+                            "text": "05.03.2026-04.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 512.55,
+                                "y1": 521.55
+                            },
+                            "text": "3  PHP 7.4 Extended Support  7.81 EUR al mes  1 m.  7,81  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 526.58,
+                                "y1": 535.58
+                            },
+                            "text": "05.04.2026-04.05.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 543.45,
+                                "y1": 552.45
+                            },
+                            "text": "4  IONOS Correo Basic 5  2.50 EUR al mes  1 m.  2,50  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 557.48,
+                                "y1": 566.48
+                            },
+                            "text": "22.03.2026-21.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 574.35,
+                                "y1": 583.35
+                            },
+                            "text": "5  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 588.38,
+                                "y1": 597.38
+                            },
+                            "text": "23.03.2026-22.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 605.25,
+                                "y1": 614.25
+                            },
+                            "text": "6  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 619.28,
+                                "y1": 628.28
+                            },
+                            "text": "24.03.2026-23.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 636.15,
+                                "y1": 645.15
+                            },
+                            "text": "7  IONOS Correo Basic 1  1.50 EUR al mes  1 m.  1,50  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 650.18,
+                                "y1": 659.18
+                            },
+                            "text": "03.04.2026-02.05.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 667.05,
+                                "y1": 676.05
+                            },
+                            "text": "8  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 681.08,
+                                "y1": 690.08
+                            },
+                            "text": "19.03.2026-18.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 697.95,
+                                "y1": 706.95
+                            },
+                            "text": "9  Descuento  Descuento  -6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 202.73,
+                                "y0": 711.98,
+                                "y1": 720.98
+                            },
+                            "text": "Descuento en concepto 8",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 242.75,
+                                "y0": 724.58,
+                                "y1": 733.58
+                            },
+                            "text": "Válido de 19/03/2026 a 18/04/2026",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.3844,
+                        "w": 0.8088,
+                        "x": 0.1191,
+                        "y": 0.4869
+                    },
+                    "confidence": null,
+                    "line_count": 21
+                },
+                {
+                    "id": "p1-b9",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 786.09,
+                        "y1": 812.75
+                    },
+                    "page": 1,
+                    "text": "IONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 1 de 2",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 508.43,
+                                "y0": 786.09,
+                                "y1": 793.1
+                            },
+                            "text": "IONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,",
+                            "font_size": 7.01,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 204.18,
+                                "y0": 795.92,
+                                "y1": 802.93
+                            },
+                            "text": "Tomo y Folio electrónico, Hoja LO-21627,",
+                            "font_size": 7.01,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.75,
+                                "y0": 805.74,
+                                "y1": 812.75
+                            },
+                            "text": "Commerzbank Frankfurt, IBAN: DE93500400000589486002  Página 1 de 2",
+                            "font_size": 7.01,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0317,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.9337
+                    },
+                    "confidence": null,
+                    "line_count": 3
+                }
+            ],
+            "tables": [
+                {
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 143.79,
+                        "y1": 166.54
+                    },
+                    "rows": [
+                        [
+                            "IONOS Cloud S.L.U. · Avenida de La Vega, 1",
+                            "Fecha de facturación:",
+                            "05/04/26"
+                        ],
+                        [
+                            "Edificio Veganova · 28108 Alcobendas (Madrid)",
+                            "ID de cliente:",
+                            "964806265"
+                        ]
+                    ],
+                    "header": null,
+                    "columns": 3,
+                    "block_id": "p1-b3",
+                    "column_anchors": [
+                        70.88,
+                        354.34,
+                        510.81
+                    ]
+                }
+            ],
+            "key_values": [
+                {
+                    "key": "n_0_de_factura",
+                    "bbox": {
+                        "x0": 354.34,
+                        "x1": 552.73,
+                        "y0": 130.58,
+                        "y1": 139.61
+                    },
+                    "page": 1,
+                    "label": "N.° de factura",
+                    "value": "202786052013",
+                    "block_id": "p1-b2",
+                    "confidence": null
+                },
+                {
+                    "key": "edificio_veganova_28108_alcobendas_madrid_id_de_cliente",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 153.61,
+                        "y1": 166.54
+                    },
+                    "page": 1,
+                    "label": "Edificio Veganova · 28108 Alcobendas (Madrid) ID de cliente",
+                    "value": "964806265",
+                    "block_id": "p1-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "econtrata_andaluza_1978_sl_n_0_de_contrato",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 167.47,
+                        "y1": 180
+                    },
+                    "page": 1,
+                    "label": "Econtrata Andaluza 1978 SL N.° de contrato",
+                    "value": "101762400",
+                    "block_id": "p1-b4",
+                    "confidence": null
+                },
+                {
+                    "key": "jose_ram_on_torres_nif_cif",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 180.97,
+                        "y1": 193.46
+                    },
+                    "page": 1,
+                    "label": "Jose Ramón Torres NIF/CIF",
+                    "value": "B72358336",
+                    "block_id": "p1-b4",
+                    "confidence": null
+                },
+                {
+                    "key": "11010_c_adiz_consultas",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.67,
+                        "y0": 206.4,
+                        "y1": 216.97
+                    },
+                    "page": 1,
+                    "label": "11010 Cádiz Consultas",
+                    "value": "www.ionos.es/ayuda",
+                    "block_id": "p1-b4",
+                    "confidence": null
+                },
+                {
+                    "key": "espa_na_my_ionos",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.67,
+                        "y0": 219.86,
+                        "y1": 230.47
+                    },
+                    "page": 1,
+                    "label": "ESPAÑA My IONOS",
+                    "value": "my.ionos.es/invoices",
+                    "block_id": "p1-b4",
+                    "confidence": null
+                },
+                {
+                    "key": "inicio_de_facturaci_on",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 197.9,
+                        "y0": 339.6,
+                        "y1": 348.6
+                    },
+                    "page": 1,
+                    "label": "Inicio de facturación",
+                    "value": "04/04/26",
+                    "block_id": "p1-b6",
+                    "confidence": null
+                },
+                {
+                    "key": "contrato",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 257.36,
+                        "y0": 387.41,
+                        "y1": 396.41
+                    },
+                    "page": 1,
+                    "label": "Contrato",
+                    "value": "101762400 - IONOS Hosting Plus",
+                    "block_id": "p1-b7",
+                    "confidence": null
+                },
+                {
+                    "key": "commerzbank_frankfurt_iban",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 805.74,
+                        "y1": 812.75
+                    },
+                    "page": 1,
+                    "label": "Commerzbank Frankfurt, IBAN",
+                    "value": "DE93500400000589486002 Página 1 de 2",
+                    "block_id": "p1-b9",
+                    "confidence": null
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "width": 595.28,
+            "height": 841.88,
+            "unit": "pt",
+            "rotation": 0,
+            "source": "text_layer",
+            "confidence": null,
+            "word_count": 213,
+            "text": "Econtrata Andaluza 1978 SL  N.° de factura:  202786052013\nJose Ramón Torres  Fecha de facturación:  05/04/26\nCalle Alonso Cano 8, 6B  ID de cliente:  964806265\n\nCon. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\n10  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n11  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 10\nVálido de 26/03/2026 a 25/04/2026\n12  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n13  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 12\nVálido de 26/03/2026 a 25/04/2026\nTotal (base imponible)  33,62 EUR\n+ IVA (21,0 %)  7,06 EUR\n\nTotal a pagar  40,68 EUR\n\nEl importe de la factura por 40,68 EUR se cargará en tu cuenta bancaria de acuerdo con tu mandato SEPA durante\nlos próximos días.\n\nLos datos de su mandato SEPA son:\nIBAN : ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del\nacreedor : ES74ZZZB85049435\n\n¿Tiene dudas o preguntas sobre esta factura?\nEncontrará información adicional en my.ionos.es o en nuestro Centro de Ayuda .\n\nIONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 2 de 2",
+            "blocks": [
+                {
+                    "id": "p2-b1",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 90.15,
+                        "y1": 126.52
+                    },
+                    "page": 2,
+                    "text": "Econtrata Andaluza 1978 SL  N.° de factura:  202786052013\nJose Ramón Torres  Fecha de facturación:  05/04/26\nCalle Alonso Cano 8, 6B  ID de cliente:  964806265",
+                    "type": "table",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.73,
+                                "y0": 90.15,
+                                "y1": 101.33
+                            },
+                            "text": "Econtrata Andaluza 1978 SL  N.° de factura:  202786052013",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.71,
+                                "y0": 103.61,
+                                "y1": 113.93
+                            },
+                            "text": "Jose Ramón Torres  Fecha de facturación:  05/04/26",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.73,
+                                "y0": 117.08,
+                                "y1": 126.52
+                            },
+                            "text": "Calle Alonso Cano 8, 6B  ID de cliente:  964806265",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0432,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.1071
+                    },
+                    "confidence": null,
+                    "line_count": 3
+                },
+                {
+                    "id": "p2-b2",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 160.31,
+                        "y1": 351.53
+                    },
+                    "page": 2,
+                    "text": "Con. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA\n10  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n11  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 10\nVálido de 26/03/2026 a 25/04/2026\n12  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %\n26.03.2026-25.04.2026\n13  Descuento  Descuento  -6,00  21,0 %\nDescuento en concepto 12\nVálido de 26/03/2026 a 25/04/2026\nTotal (base imponible)  33,62 EUR\n+ IVA (21,0 %)  7,06 EUR",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.38,
+                                "y0": 160.31,
+                                "y1": 169.31
+                            },
+                            "text": "Con. Servicios facturados  Tarifa  Cantidad Importe (EUR)  IVA",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 176.1,
+                                "y1": 185.1
+                            },
+                            "text": "10  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 190.13,
+                                "y1": 199.13
+                            },
+                            "text": "26.03.2026-25.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 207,
+                                "y1": 216
+                            },
+                            "text": "11  Descuento  Descuento  -6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 207.88,
+                                "y0": 221.02,
+                                "y1": 230.02
+                            },
+                            "text": "Descuento en concepto 10",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 242.75,
+                                "y0": 233.63,
+                                "y1": 242.63
+                            },
+                            "text": "Válido de 26/03/2026 a 25/04/2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 250.5,
+                                "y1": 259.5
+                            },
+                            "text": "12  IONOS Correo Profesional 1 Lic. 6.00 EUR al mes  1 m.  6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 191.22,
+                                "y0": 264.53,
+                                "y1": 273.53
+                            },
+                            "text": "26.03.2026-25.04.2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.36,
+                                "y0": 281.4,
+                                "y1": 290.4
+                            },
+                            "text": "13  Descuento  Descuento  -6,00  21,0 %",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 207.88,
+                                "y0": 295.43,
+                                "y1": 304.43
+                            },
+                            "text": "Descuento en concepto 12",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 96.38,
+                                "x1": 242.75,
+                                "y0": 308.03,
+                                "y1": 317.03
+                            },
+                            "text": "Válido de 26/03/2026 a 25/04/2026",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.74,
+                                "y0": 328.5,
+                                "y1": 337.5
+                            },
+                            "text": "Total (base imponible)  33,62 EUR",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.73,
+                                "y0": 342.53,
+                                "y1": 351.53
+                            },
+                            "text": "+ IVA (21,0 %)  7,06 EUR",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.2271,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.1904
+                    },
+                    "confidence": null,
+                    "line_count": 13
+                },
+                {
+                    "id": "p2-b3",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.72,
+                        "y0": 361.01,
+                        "y1": 373.01
+                    },
+                    "page": 2,
+                    "text": "Total a pagar  40,68 EUR",
+                    "type": "key_value",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.72,
+                                "y0": 361.01,
+                                "y1": 373.01
+                            },
+                            "text": "Total a pagar  40,68 EUR",
+                            "font_size": 12,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0143,
+                        "w": 0.8094,
+                        "x": 0.1191,
+                        "y": 0.4288
+                    },
+                    "confidence": null,
+                    "line_count": 1
+                },
+                {
+                    "id": "p2-b4",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.72,
+                        "y0": 398.29,
+                        "y1": 419.89
+                    },
+                    "page": 2,
+                    "text": "El importe de la factura por 40,68 EUR se cargará en tu cuenta bancaria de acuerdo con tu mandato SEPA durante\nlos próximos días.",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.72,
+                                "y0": 398.29,
+                                "y1": 407.29
+                            },
+                            "text": "El importe de la factura por 40,68 EUR se cargará en tu cuenta bancaria de acuerdo con tu mandato SEPA durante",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 146.76,
+                                "y0": 410.89,
+                                "y1": 419.89
+                            },
+                            "text": "los próximos días.",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0257,
+                        "w": 0.8094,
+                        "x": 0.1191,
+                        "y": 0.4731
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                },
+                {
+                    "id": "p2-b5",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.76,
+                        "y0": 437.66,
+                        "y1": 471.94
+                    },
+                    "page": 2,
+                    "text": "Los datos de su mandato SEPA son:\nIBAN : ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del\nacreedor : ES74ZZZB85049435",
+                    "type": "key_value",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 219.87,
+                                "y0": 437.66,
+                                "y1": 446.66
+                            },
+                            "text": "Los datos de su mandato SEPA son:",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.76,
+                                "y0": 450.3,
+                                "y1": 459.3
+                            },
+                            "text": "IBAN : ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 198.45,
+                                "y0": 462.94,
+                                "y1": 471.94
+                            },
+                            "text": "acreedor : ES74ZZZB85049435",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0407,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.5199
+                    },
+                    "confidence": null,
+                    "line_count": 3
+                },
+                {
+                    "id": "p2-b6",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 406.38,
+                        "y0": 489.71,
+                        "y1": 511.31
+                    },
+                    "page": 2,
+                    "text": "¿Tiene dudas o preguntas sobre esta factura?\nEncontrará información adicional en my.ionos.es o en nuestro Centro de Ayuda .",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 260.71,
+                                "y0": 489.71,
+                                "y1": 498.71
+                            },
+                            "text": "¿Tiene dudas o preguntas sobre esta factura?",
+                            "font_size": 9,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 406.38,
+                                "y0": 502.31,
+                                "y1": 511.31
+                            },
+                            "text": "Encontrará información adicional en my.ionos.es o en nuestro Centro de Ayuda .",
+                            "font_size": 9,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0257,
+                        "w": 0.5636,
+                        "x": 0.1191,
+                        "y": 0.5817
+                    },
+                    "confidence": null,
+                    "line_count": 2
+                },
+                {
+                    "id": "p2-b7",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 786.09,
+                        "y1": 812.75
+                    },
+                    "page": 2,
+                    "text": "IONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,\nTomo y Folio electrónico, Hoja LO-21627,\nCommerzbank Frankfurt, IBAN: DE93500400000589486002  Página 2 de 2",
+                    "type": "paragraph",
+                    "lines": [
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 508.43,
+                                "y0": 786.09,
+                                "y1": 793.1
+                            },
+                            "text": "IONOS Cloud S.L.U., NIF B-85049435, Madre de Dios nº 21, 26004-Logroño (La Rioja) Spain, Inscrita en el Registro Mercantil de La Rioja,",
+                            "font_size": 7.01,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 204.18,
+                                "y0": 795.92,
+                                "y1": 802.93
+                            },
+                            "text": "Tomo y Folio electrónico, Hoja LO-21627,",
+                            "font_size": 7.01,
+                            "confidence": null
+                        },
+                        {
+                            "bbox": {
+                                "x0": 70.88,
+                                "x1": 552.75,
+                                "y0": 805.74,
+                                "y1": 812.75
+                            },
+                            "text": "Commerzbank Frankfurt, IBAN: DE93500400000589486002  Página 2 de 2",
+                            "font_size": 7.01,
+                            "confidence": null
+                        }
+                    ],
+                    "rel_bbox": {
+                        "h": 0.0317,
+                        "w": 0.8095,
+                        "x": 0.1191,
+                        "y": 0.9337
+                    },
+                    "confidence": null,
+                    "line_count": 3
+                }
+            ],
+            "tables": [
+                {
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 90.15,
+                        "y1": 126.52
+                    },
+                    "rows": [
+                        [
+                            "Econtrata Andaluza 1978 SL",
+                            "N.° de factura:",
+                            "202786052013"
+                        ],
+                        [
+                            "Jose Ramón Torres",
+                            "Fecha de facturación:",
+                            "05/04/26"
+                        ],
+                        [
+                            "Calle Alonso Cano 8, 6B",
+                            "ID de cliente:",
+                            "964806265"
+                        ]
+                    ],
+                    "header": null,
+                    "columns": 3,
+                    "block_id": "p2-b1",
+                    "column_anchors": [
+                        70.88,
+                        382.69,
+                        506.4
+                    ]
+                }
+            ],
+            "key_values": [
+                {
+                    "key": "econtrata_andaluza_1978_sl_n_0_de_factura",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 90.15,
+                        "y1": 101.33
+                    },
+                    "page": 2,
+                    "label": "Econtrata Andaluza 1978 SL N.° de factura",
+                    "value": "202786052013",
+                    "block_id": "p2-b1",
+                    "confidence": null
+                },
+                {
+                    "key": "jose_ram_on_torres_fecha_de_facturaci_on",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.71,
+                        "y0": 103.61,
+                        "y1": 113.93
+                    },
+                    "page": 2,
+                    "label": "Jose Ramón Torres Fecha de facturación",
+                    "value": "05/04/26",
+                    "block_id": "p2-b1",
+                    "confidence": null
+                },
+                {
+                    "key": "calle_alonso_cano_8_6b_id_de_cliente",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 117.08,
+                        "y1": 126.52
+                    },
+                    "page": 2,
+                    "label": "Calle Alonso Cano 8, 6B ID de cliente",
+                    "value": "964806265",
+                    "block_id": "p2-b1",
+                    "confidence": null
+                },
+                {
+                    "key": "total_base_imponible",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.74,
+                        "y0": 328.5,
+                        "y1": 337.5
+                    },
+                    "page": 2,
+                    "label": "Total (base imponible)",
+                    "value": "33,62 EUR",
+                    "block_id": "p2-b2",
+                    "confidence": null
+                },
+                {
+                    "key": "iva_21_0",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.73,
+                        "y0": 342.53,
+                        "y1": 351.53
+                    },
+                    "page": 2,
+                    "label": "+ IVA (21,0 %)",
+                    "value": "7,06 EUR",
+                    "block_id": "p2-b2",
+                    "confidence": null
+                },
+                {
+                    "key": "total_a_pagar",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.72,
+                        "y0": 361.01,
+                        "y1": 373.01
+                    },
+                    "page": 2,
+                    "label": "Total a pagar",
+                    "value": "40,68 EUR",
+                    "block_id": "p2-b3",
+                    "confidence": null
+                },
+                {
+                    "key": "iban",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.76,
+                        "y0": 450.3,
+                        "y1": 459.3
+                    },
+                    "page": 2,
+                    "label": "IBAN",
+                    "value": "ES6XXXXXXXXXXXXXXXXXX772 , Referencia de mandato : 0160000522341 , Número de identificación del",
+                    "block_id": "p2-b5",
+                    "confidence": null
+                },
+                {
+                    "key": "acreedor",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 198.45,
+                        "y0": 462.94,
+                        "y1": 471.94
+                    },
+                    "page": 2,
+                    "label": "acreedor",
+                    "value": "ES74ZZZB85049435",
+                    "block_id": "p2-b5",
+                    "confidence": null
+                },
+                {
+                    "key": "commerzbank_frankfurt_iban",
+                    "bbox": {
+                        "x0": 70.88,
+                        "x1": 552.75,
+                        "y0": 805.74,
+                        "y1": 812.75
+                    },
+                    "page": 2,
+                    "label": "Commerzbank Frankfurt, IBAN",
+                    "value": "DE93500400000589486002 Página 2 de 2",
+                    "block_id": "p2-b7",
+                    "confidence": null
+                }
+            ]
+        }
+    ],
+    "warnings": []
+}
